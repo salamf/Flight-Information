@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/salam/CLionProjects/assignment6/daily_min_max.c
+stdio.h
+-
+
+/Users/salam/CLionProjects/assignment6/station_extremes.c
+stdio.h
+-
+

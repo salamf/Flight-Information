@@ -1,0 +1,5 @@
+Station 1: Minimum = 7.30 degrees (11/13 18:06), Maximum = 8.70 degrees (11/14 12:07)
+Station 2: Minimum = -1.00 degrees (12/01 01:06), Maximum = -0.50 degrees (12/01 09:07)
+Station 111: Minimum = 18.70 degrees (06/10 17:00), Maximum = 18.70 degrees (06/10 17:00)
+Station 143: Minimum = 8.60 degrees (11/14 11:58), Maximum = 8.60 degrees (11/14 11:58)
+Station 163: Minimum = 8.90 degrees (11/14 13:03), Maximum = 8.90 degrees (11/14 13:03)
